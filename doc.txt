@@ -20,7 +20,7 @@ Yeah, we traced it to a timestamp mismatch. The container clock in our ECS clust
 Then sync it using NTP or something before our demo tomorrow. We can’t let latency between Accra and Kigali ruin this pitch.
 
 [CHARACTER 2]
-Understood. We’ll spin up a new replica in [_____] region to minimize cross-border lag.
+Understood. We’ll spin up a new replica in [same] region to minimize cross-border lag.
 
 CUT TO:
 
