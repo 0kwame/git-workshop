@@ -14,7 +14,7 @@ A wall monitor shows an ongoing video call — a team in Kigali appears on scree
 The microservice deployed fine, but your authentication API still fails during the OAuth handshake.
 
 [CHARACTER 2 – Rwandan Backend Lead, on video call]
-Yeah, we traced it to a timestamp mismatch. The container clock in our ECS cluster is [_____].
+Yeah, we traced it to a timestamp mismatch. The container clock in our ECS cluster is [__down__].
 
 [CHARACTER 3 – Ghanaian Product Manager]
 Then sync it using NTP or something before our demo tomorrow. We can’t let latency between Accra and Kigali ruin this pitch.
